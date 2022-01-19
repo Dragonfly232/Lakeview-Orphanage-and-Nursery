@@ -4,11 +4,15 @@
 
 #menu  {
     font-size:125%
-    letter: spacing 5px;
+    letter:spacing 5px;
 }
 
 
-
+#menu  {
+    float:right;
+    list-style-type:none;
+    margin: rigth 50px;
+}
 
 
 
