@@ -1,3 +1,13 @@
+/*logo in the header*/
+
+#logo  {
+    float:left;
+    font-size: larger;
+    color:white;
+    
+}
+
+
 
 
 /* navigation links */
